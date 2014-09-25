@@ -18,8 +18,8 @@ public class OperacionesRectangulo {
 	  System.out.print("\ningresa la base: ");
           base = sc.nextDouble();
 	  
-	  circulo.setAltura(altura);
-	  circulo.setBase(base);
+	  rectangulo.setAltura(altura);
+	  rectangulo.setBase(base);
 
 	
 	  result =  rectangulo.area();
