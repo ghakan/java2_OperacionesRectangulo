@@ -28,7 +28,7 @@ public class Circulo {
 	}	
 	public double getBase() {
 
-		return altura;
+		return base;
 	}	
 
 	public void setAltura(double num) {
