@@ -1,4 +1,4 @@
-public class Circulo {
+public class Rectangulo {
 
 	private double altura = 0;
 
